@@ -1292,7 +1292,7 @@ module.exports = async (client) => {
     app.get("/api", async (req, res) => {
         res.json({
             "Hello": "World",
-            "Template by": "v c o d e s . x y z"
+            "Template by": "TN hazem#6101"
         });
     });
     app.get("/api/bots/:botID", async (req, res) => {
